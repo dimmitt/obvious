@@ -1,3 +1,15 @@
+fixingDesktops is all about ... 
+
+1) text files in every folder. 
+2) text files store (x,y) location coordinates 
+<br>procedurally generated.
+
+upon right click for functionality, 
+1) what is on current folder zips and goes to its respective folder.
+2) file clicked is unloaded and becomes the new desktop setting.
+
+
+
 ##Coming Soon
 <pre>
 I want to run in a single program. 
