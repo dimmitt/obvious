@@ -1,4 +1,17 @@
+## DesktopTruth...
 fixingDesktops is all about ... 
+<br>DesktopTruth...
+<br>(unsure about linux)
+<br>The truth, whether mac or windows:
+
+id build for linux but it probably exists somewhere.(pending linux market research)
+
+OS Developers missed; they messed up. maybe it wasnt their job, maybe "_who" knows if it was their job.
+<br>The operating systems they developed are nice. But desktops are wrong.
+<br>They made a singleton, because they named it inapropriately.
+<br>They named it desktop. But a desktop can be many desktops. Im going to show you.
+<br>and in part show myself. 😘 ps, it was obvious.
+<br>PLANNING on fixing mac's first. (for the cool kids)
 
 1) text files in every folder. 
 2) text files store (x,y) location coordinates 
